@@ -1,0 +1,21 @@
+Aravind Bethapudi | AI Engineer @ CVS Health | Ex-Honeywell | UNT MS CS
+
+Hey, I'm Aravind – born and raised in Chennai, now building AI systems in the US.  
+I did my Master’s in Computer Science at University of North Texas, then joined Honeywell where I shipped edge ML models on Jetson devices for industrial IoT. Today, I’m an AI Engineer at CVS Health, turning healthcare data into real patient impact.
+
+What I do best:
+• Agentic AI & LLM Orchestration – RAG, tool-calling agents, LangChain/LlamaIndex pipelines
+• MLOps & Production ML – Docker, Kubernetes, MLflow, CI/CD for models
+• Multimodal & Edge AI – vision + text models on low-power hardware
+• Healthcare AI – reduced diagnostic turnaround by 34% using structured + unstructured data
+
+Key projects (yes, these are on my resume):
+1. **CVS Health**: Built a RAG-powered clinical agent that pulls from EHRs, PubMed, and internal docs – now used by 200+ pharmacists daily.
+2. **Honeywell**: Deployed an anomaly detection model on 500+ edge gateways – saved $1.2M in downtime.
+3. **Agentic Workflow Engine**: Open-source tool (GitHub: aravindbee/agents) that lets non-coders build AI workflows with drag-and-drop.
+
+I love clean code, clear comms, and systems that *just work*.  
+Outside work: gym at 6 AM, learning one new paper daily, creating content on AI engineering, and reflecting on how to level up – every single day.
+
+Let’s talk AI, healthcare, agents, or just life in the US as a Chennai boy.  
+I’m all ears (and occasionally all code).
